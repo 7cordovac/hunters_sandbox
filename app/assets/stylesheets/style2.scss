@@ -166,3 +166,14 @@ $mobile_column_height: 300px;
   /* Even Smaller devices */
 
 }
+
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.order-title {
+    font-family: bangla-mn;
+    font-size: 15px;
+}
